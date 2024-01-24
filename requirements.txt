@@ -6,4 +6,8 @@ scikit-learn
 catboost
 xgboost
 dill
+flask
 # -e .
+# ubuntu 16
+# runtime memory stats 
+# package size
